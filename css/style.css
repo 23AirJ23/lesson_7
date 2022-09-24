@@ -269,6 +269,7 @@ margin-left: 10px;
    border: 1px solid #D7DADD;
    border-radius: 4px;
    margin-right: 12px;
+   white-space: nowrap;
 }
 
 .bottom__tags a:last-child{
